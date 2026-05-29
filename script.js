@@ -115,3 +115,4 @@ function preguntas(){
         <p><strong>Pregunta 3:</strong> ${pregunta3}</p>
     `;
 }
+
